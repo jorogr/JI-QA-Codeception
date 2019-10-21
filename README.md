@@ -24,6 +24,9 @@ chromedriver --port=4444 --silent --url-base=wd/hub
 Running the whole acceptance set with:
 ```bash
 php codecept.phar run acceptance --steps
+```
 
 Or run a specific test case with:
+```bash
 php codecept.phar run acceptance <test_case_name>.php --steps
+```
