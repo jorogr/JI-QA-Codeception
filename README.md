@@ -4,7 +4,7 @@ This is a short Acceptance Set set which could be run with Codecept and Chromedr
 
 ## Setup
 
-1. Install PHP on local machine
+1. Install PHP on local machine (Debian)
 ```bash
 apt update && apt upgrade
 apt install php
